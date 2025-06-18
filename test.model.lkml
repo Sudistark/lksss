@@ -5,7 +5,7 @@ include: "*.view.lkml"                # include all views in the views/ folder i
 # include: "my_dashboard.dashboard.lookml"   # include a LookML dashboard called my_dashboard
 
 # # Select the views that should be a part of this model,
-# # and define the joins that connect them together.
+# # and define the joins that connect them togethers.
 #
 # explore: order_items {
 #   join: orders {
